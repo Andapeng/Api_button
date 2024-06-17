@@ -92,7 +92,7 @@ a
 .index
   margin 0 auto
   width 100%
-  background-image url('https://i.niupic.com/images/2023/11/03/bZ9m.jpg')
+  background-image url('https://s21.ax1x.com/2024/06/17/pk0SoOe.jpg')
   background-position center center
   background-size cover
   .content
