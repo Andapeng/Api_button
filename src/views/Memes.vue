@@ -21,7 +21,7 @@ export default {
   setup() {
     const getUrl = (path: string) => {
       return process.env.NODE_ENV === 'production'
-        ? `https://cdn.jsdelivr.net/gh/pipilapilayu/Api_button@main/public/memes/${path}`
+        ? `/memes/${path}`
         : `/memes/${path}`
     }
 
